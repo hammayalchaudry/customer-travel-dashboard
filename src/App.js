@@ -5,7 +5,7 @@ import {
 } from 'recharts';
 import { 
   User, Mail, Phone, MapPin, Award, DollarSign, Calendar, 
-  Moon, Sun, Download, ShieldCheck, UserPlus, Clock, XCircle, CheckCircle 
+  Moon, Sun, Download, ShieldCheck, UserPlus 
 } from 'lucide-react';
 import './App.css';
 
@@ -226,7 +226,7 @@ function App() {
           <h2>
             {activeCustomer.name} <span className="badge gold">{activeCustomer.loyaltyTier}</span>
           </h2>
-          <p><Mail size={14} inline /> {activeCustomer.email} | <Phone size={14} inline /> {activeCustomer.phone}</p>
+          <p><Mail size={14} /> {activeCustomer.email} | <Phone size={14} /> {activeCustomer.phone}</p>
           
           <div className="customer-meta-grid">
             <div className="meta-box">
