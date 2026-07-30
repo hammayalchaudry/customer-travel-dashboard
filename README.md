@@ -54,14 +54,10 @@ Ran Google Lighthouse audit on the deployed application for both Desktop and Mob
 ### Audit Results
 
 #### Desktop Score
-<img src="<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/1507c8d4-225d-4686-87ba-4f19b250e802" />
-" width="100%" alt="Lighthouse Score" />
-)
+<img src="https://github.com/user-attachments/assets/15070f8b-f41e-450f-9ae2-bd00bb13da9c" width="100%" alt="Desktop Lighthouse Score" />
 
 #### Mobile Score
-<img src="<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/bce5dd59-3518-44ea-9a46-fb7a27d03db9" />
-" width="100%" alt="Lighthouse Score" />
-)
+<img src="https://github.com/user-attachments/assets/bce500d0-e14a-4e2b-b620-22c668b0ca4f" width="100%" alt="Mobile Lighthouse Score" />
 
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
