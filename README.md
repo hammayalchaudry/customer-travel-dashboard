@@ -54,11 +54,13 @@ Ran Google Lighthouse audit on the deployed application for both Desktop and Mob
 ### Audit Results
 
 #### Desktop Score
-![Desktop Audit Score](<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/1306d053-7a55-4898-951b-d2a1eeaccc01" />
+<img src="<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/1507c8d4-225d-4686-87ba-4f19b250e802" />
+" width="100%" alt="Lighthouse Score" />
 )
 
 #### Mobile Score
-![Mobile Audit Score](<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/e85d323f-c84a-45fe-9349-0abcbaeb7a6e" />
+<img src="<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/bce5dd59-3518-44ea-9a46-fb7a27d03db9" />
+" width="100%" alt="Lighthouse Score" />
 )
 
 ### Key Fixes Implemented:
