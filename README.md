@@ -1,3 +1,4 @@
+
 # customer-travel-dashboard
 Travel Booking Dashboard
 
@@ -51,12 +52,11 @@ npx cypress run
 
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
 #### Desktop Score
-![Desktop Score](https://github.com/hammayalchaudry/customer-travel-dashboard/blob/main/Screenshot%202026-07-30%20172644.png                            
-)
+<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/702430f9-75eb-4242-8ecd-f94d7278dca5" />
 
 #### Mobile Score
-![Mobile Score](https://github.com/hammayalchaudry/customer-travel-dashboard/blob/main/Screenshot%202026-07-30%20172803.png
-)
+<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/3bb13b4e-4c9e-45a5-9077-84c724caf2f9" />
+
 
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
