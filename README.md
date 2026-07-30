@@ -51,12 +51,11 @@ npx cypress run
 
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
 #### Desktop Score
-![Desktop Score](<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/6ff9f0cc-1ba6-482c-9c2c-c1e335f8d675" />
-)
+<img width="1885" height="882" alt="image" src="https://github.com/user-attachments/assets/80b81c94-ceb5-43ea-bc22-a8091a41675f" />
+
 
 #### Mobile Score
-![Mobile Score](<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/362889c2-b80a-4ae3-88eb-ae41514a3225" />
-)
+
 
 
 ### Key Fixes Implemented:
