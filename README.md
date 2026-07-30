@@ -51,16 +51,12 @@ npx cypress run
 
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
 
-### Audit Results
 
 #### Desktop Score
-<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/3c92ce13-7a78-43d2-a177-83b40d21b31a" />
-alt="Desktop Lighthouse Score" />
+![Desktop Lighthouse Score](https://github.com/user-attachments/assets/15070f8b-f41e-450f-9ae2-bd00bb13da9c)
 
 #### Mobile Score
-<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/0c3533c7-8bdb-42bc-894b-f335bb0f8227" />
-alt="Mobile Lighthouse Score" />
-
+![Mobile Lighthouse Score](https://github.com/user-attachments/assets/bce500d0-e14a-4e2b-b620-22c668b0ca4f)
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
 2. **Accessibility:** Enhanced image `alt` attributes and added screen-reader support for dashboard controls.
