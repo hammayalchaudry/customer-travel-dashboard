@@ -45,9 +45,8 @@ npx cypress run
 - **Testing:** React Testing Library (Unit/Logic) & Cypress (E2E Integer
 ## 🚀 Performance & Lighthouse Audit
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
-
-##desktop
-<img width="943" height="441" alt="Image" src="https://github.com/user-attachments/assets/9838dc85-d150-4206-ab52-3b5a05a9f447" />
+#### Desktop Score
+![Desktop Audit Score](https://github.com/user-attachments/assets/9838dc85-d150-4206-ab52-3b5a05a9f447)
 ##mobile
 <img width="947" height="416" alt="Image" src="https://github.com/user-attachments/assets/c68d5981-4c09-46cd-956a-b3546f2d7242" />
 
