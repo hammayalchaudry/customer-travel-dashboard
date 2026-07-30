@@ -45,14 +45,24 @@ npx cypress run
 
 ---
 
-## 🚀 Performance & Lighthouse Audit Fixes
+---
 
-Ran Google Lighthouse audit on the deployed application and resolved key flagged issues:
+## 🚀 Performance & Lighthouse Audit
 
-1. **SEO Essentials:** Added proper meta tags, page description, dynamic page titles, and OpenGraph structured data in `public/index.html`.
-2. **Accessibility Fixes:** Added explicit `alt` text to profile dynamic avatars and optimized SVG icon labels for screen readers.
-3. **Asset Optimization:** Applied lazy loading (`loading="lazy"`) to media assets and optimized DOM rendering for faster initial paint.
-<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/6a31ae2a-de11-41ab-816b-598c3fa6d4c9" />
-<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/77f3198e-cba1-424a-ab33-b914aa4da55f" />
+Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
 
+### Audit Results
+
+#### Desktop Score
+![Desktop Audit Score](<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/1306d053-7a55-4898-951b-d2a1eeaccc01" />
+)
+
+#### Mobile Score
+![Mobile Audit Score](<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/e85d323f-c84a-45fe-9349-0abcbaeb7a6e" />
+)
+
+### Key Fixes Implemented:
+1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
+2. **Accessibility:** Enhanced image `alt` attributes and added screen-reader support for dashboard controls.
+3. **Asset Optimization:** Applied lazy loading on dynamic user profile assets to improve initial page load speed.
 
