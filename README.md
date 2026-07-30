@@ -46,8 +46,10 @@ npx cypress run
 ## 🚀 Performance & Lighthouse Audit
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
 
-<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/84b181a8-a532-4880-b5e5-c591a78779d4" />
-<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/3cfbadf3-1ac2-4146-bd32-8ae451967142" />
+##desktop
+<img width="943" height="441" alt="Image" src="https://github.com/user-attachments/assets/9838dc85-d150-4206-ab52-3b5a05a9f447" />
+##mobile
+<img width="947" height="416" alt="Image" src="https://github.com/user-attachments/assets/c68d5981-4c09-46cd-956a-b3546f2d7242" />
 
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
