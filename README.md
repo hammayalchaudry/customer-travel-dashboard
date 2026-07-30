@@ -55,6 +55,7 @@ Ran Google Lighthouse audit on the deployed application for both Desktop and Mob
 
 
 #### Mobile Score
+<img width="1893" height="831" alt="image" src="https://github.com/user-attachments/assets/39866c7b-03dd-44cc-b8dd-7269b99e565e" />
 
 
 
