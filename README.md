@@ -42,20 +42,13 @@ npx cypress run
 
 - **Frontend:** React.js, Recharts, Lucide Icons, CSS3 (Responsive Design)
 - **Deployment:** Vercel Continuous Deployment (Production Ready)
-- **Testing:** React Testing Library (Unit/Logic) & Cypress (E2E Integration)
-
----
-
----
-
+- **Testing:** React Testing Library (Unit/Logic) & Cypress (E2E Integer
 ## 🚀 Performance & Lighthouse Audit
-
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
-#### Desktop Score
-<img src="https://github.com/user-attachments/assets/80b81c94-ceb5-43ea-bc22-a8091a41675f" width="100%" />
 
-#### Mobile Score
-<img src="https://github.com/user-attachments/assets/39866c7b-03dd-44cc-b8dd-7269b99e565e" width="100%" />
+<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/84b181a8-a532-4880-b5e5-c591a78779d4" />
+<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/3cfbadf3-1ac2-4146-bd32-8ae451967142" />
+
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
 2. **Accessibility:** Enhanced image `alt` attributes and added screen-reader support for dashboard controls.
