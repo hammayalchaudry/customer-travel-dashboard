@@ -50,13 +50,13 @@ npx cypress run
 ## 🚀 Performance & Lighthouse Audit
 
 Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
-
-
 #### Desktop Score
-![Desktop Lighthouse Score](https://github.com/user-attachments/assets/15070f8b-f41e-450f-9ae2-bd00bb13da9c)
+<img src="Screenshot 2026-07-30 172644.png" alt="Desktop Lighthouse Score" width="100%" />
 
 #### Mobile Score
-![Mobile Lighthouse Score](https://github.com/user-attachments/assets/bce500d0-e14a-4e2b-b620-22c668b0ca4f)
+<img src="Screenshot 2026-07-30 172803.png" alt="Mobile Lighthouse Score" width="100%" />
+
+
 ### Key Fixes Implemented:
 1. **SEO Essentials:** Added descriptive meta tags, titles, and structured metadata in `public/index.html`.
 2. **Accessibility:** Enhanced image `alt` attributes and added screen-reader support for dashboard controls.
