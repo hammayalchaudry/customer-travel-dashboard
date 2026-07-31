@@ -39,11 +39,17 @@ Evaluators and mentors can execute automated unit, integration, and end-to-end t
 ### 1. Run Unit & Logic Tests (Jest)
 To run the automated React component and data logic tests:
 
+## Testing Instructions
+
+To run the automated React component and data logic tests:
+
 ```bash
-cd frontend-appcd
+cd frontend-app
 npm test -- --watchAll=false
 npm start
 npx cypress run
+```
+
 ## Desktop Score
 
 ![Desktop](assets/desktop.png)
