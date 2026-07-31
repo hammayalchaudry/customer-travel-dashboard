@@ -1,36 +1,22 @@
-
 # customer-travel-dashboard
 Travel Booking Dashboard
 
 Features:
-Total Bookings
-Revenue
-Destinations
-Customers
+- Total Bookings
+- Revenue
+- Destinations
+- Customers
 
 Charts:
-📊 Monthly Bookings
-📈 Revenue Trend
-🥧 Booking Types (Flight, Hotel, Tour)
+- 📊 Monthly Bookings
+- 📈 Revenue Trend
+- 🥧 Booking Types (Flight, Hotel, Tour)
 
 Filter:
-Destination
-Month
+- Destination
+- Month
+
 ---
-
-## 🧪 Testing Instructions
-
-Evaluators and mentors can execute automated unit, integration, and end-to-end tests using the commands below:
-
-### 1. Run Unit & Logic Tests (Jest)
-To run the 10 automated React component and data logic tests:
-
-```bash
-cd frontend-appcd
-npm test -- --watchAll=false
-cd frontend-appcd
-npm start
-npx cypress run
 
 # ✈️ Customer Travel Management Dashboard
 
@@ -42,17 +28,19 @@ npx cypress run
 
 - **Frontend:** React.js, Recharts, Lucide Icons, CSS3 (Responsive Design)
 - **Deployment:** Vercel Continuous Deployment (Production Ready)
-- **Testing:** React Testing Library (Unit/Logic) & Cypress (E2E Integer
-
+- **Testing:** React Testing Library (Unit/Logic) & Cypress (E2E Integration)
 
 ---
 
-## 🚀 Performance & Lighthouse Audit
+## 🧪 Testing Instructions
 
-Ran Google Lighthouse audit on the deployed application for both Desktop and Mobile viewports:
+Evaluators and mentors can execute automated unit, integration, and end-to-end tests using the commands below:
 
-#### Desktop Score
-![Desktop Audit Score](desktop.png)
+### 1. Run Unit & Logic Tests (Jest)
+To run the automated React component and data logic tests:
 
-#### Mobile Score
-![Mobile Audit Score](mobile.png)
+```bash
+cd frontend-appcd
+npm test -- --watchAll=false
+npm start
+npx cypress run
