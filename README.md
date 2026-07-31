@@ -44,8 +44,10 @@ cd frontend-appcd
 npm test -- --watchAll=false
 npm start
 npx cypress run
-#### Desktop Score
-<img width="943" height="441" alt="Screenshot 2026-07-30 172644" src="https://github.com/user-attachments/assets/f871ecdd-8ed7-4d91-aedd-f3caeecdf79e" />
-#### Mobile Score
-<img width="947" height="416" alt="Screenshot 2026-07-30 172803" src="https://github.com/user-attachments/assets/f4cc7820-ba35-4a49-9ac5-d282de8f430f" />
+## Desktop Score
 
+![Desktop](assets/desktop.png)
+
+## Mobile Score
+
+![Mobile](assets/mobile.png)
